@@ -19,6 +19,20 @@ TIME SPENT: X hours
 
 <!-- entries go below this line -->
 
+## [29-06-2026] Session 2 — CLAUDE.md restructure and stage realignment
+STAGE: Stage 1 — Basic FastAPI app
+COMPLETED:
+- User updated CLAUDE.md with new stage numbering and teaching rules
+- CHANGELOG.md updated to match new stage structure and tracker format
+- Registered ALL PUSH and CONFIRM DELETE command rules in memory
+IN PROGRESS:
+- Stage 1 partially done — folder structure and config complete, main.py not yet written
+NEXT SESSION STARTS AT:
+- Stage 1 — write app/main.py with FastAPI instance and GET /health endpoint
+- Then run: uvicorn app.main:app --reload and verify /health responds
+
+---
+
 ## [29-06-2026] Session 1 — Project setup and config
 STAGE: Stage 2 — Environment variables and config
 COMPLETED:

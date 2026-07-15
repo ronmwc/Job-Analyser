@@ -21,7 +21,7 @@ The system fetches job listings only when manually triggered through an API endp
 
 ## Tech Stack
 
-* **Python 3.11+**
+* **Python
 * **FastAPI** — REST API framework
 * **PostgreSQL** — relational database
 * **SQLAlchemy** — ORM for database interaction
